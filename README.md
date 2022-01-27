@@ -1,6 +1,6 @@
-# Hi, my name is Juan David 👋	
+# Hi, my name is Juan David	
 
-I'm a software engineering student, I have skills in Python, PHP, JS, Angular, jQuery, and more. I passionate about learn new technologies, know new friends and do many things in my computer.
+I'm a software engineering student, I have skills in Python, PHP, JS, Angular, jQuery, Java, C++, and more. I passionate about learn new technologies, know new friends and do many things in my computer.
 
 
 ## My actual GitHub stats :chart_with_upwards_trend: : 
